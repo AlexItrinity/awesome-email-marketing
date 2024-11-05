@@ -60,6 +60,7 @@
 * [Stripo](https://stripo.email/fr/) - Free email template builder
 * [Substack](https://substack.com/) - Paid newsletters made simple
 * [Mailchimp](https://mailchimp.com/) - Free emailing software
+* [WarmupInbox](https://warmupinbox.com/) - Warmup tool to improve deliverability by reducing your spam rate and maintaining a high reputation with your ESP
 * [Converkit](https://convertkit.com/) - Send automated emailing campaigns
 * [Sendy](https://sendy.co/) - Send newsletters, 100x cheaper
 * [MailWiz](https://www.mailwizz.com/) - Self-hosted Email Marketing Software
@@ -70,6 +71,7 @@
 * [Butondown](https://buttondown.email/) - The easiest way to write/grow/build/launch/share/run/ your newsletter
 * [Upscribe](https://www.upscribe.net/) - Upscribe Newsletter Creator: Email Capture Sign Up Forms, Marketing &amp; Sequences Tool. No more battling with your email newsletter tool…
 * [Palabra](https://palabra.io/) - Automate your product-led growth
+* [EmailListVerify](https://EmailListVerify.com/) EmailListVerify - Verify your email lists and discover email addresses
 * [Friendly](https://friendly.is/automate) - The Privacy Friendly Marketing Automation Software 
 * [Froged](https://froged.com/) - Optimize your Customer Experience with One Powerful Product
 * [Mailjet](https://www.mailjet.com/) - Create and send beautiful emails without touching a single line of code
